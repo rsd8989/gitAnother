@@ -1,1 +1,1 @@
-var do="do it"
+var dof="do it"
